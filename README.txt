@@ -16,4 +16,4 @@ each folder contains:
 	last video recorded of the DQN playing
 	
 
-all relevant plots and information is detailed in the RL-project-Report.pdf file.
+all relevant plots and information is detailed in the RL-project.pdf Report file.
