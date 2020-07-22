@@ -1,5 +1,5 @@
 
-![Alt Text](agent playing!.gif)
+![Alt Text](https://github.com/ozgranit/Deep-Q-Learning-on-Atari/blob/master/agent%20playing!.gif)
 
 
 main.py - running "python main.py" will:
