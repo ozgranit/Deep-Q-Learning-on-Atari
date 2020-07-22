@@ -1,5 +1,5 @@
+
 ![Alt Text](agent playing!.gif)
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 
 main.py - running "python main.py" will:
