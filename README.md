@@ -1,4 +1,4 @@
-![](agent playing!.gif)
+![Alt Text](agent playing!.gif)
 
 
 main.py - running "python main.py" will:
