@@ -1,3 +1,4 @@
+![](agent playing!.gif)
 
 main.py - running "python main.py" will:
 	train a DQN with Default Hyperparameters and plot results.
